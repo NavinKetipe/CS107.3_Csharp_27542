@@ -11,7 +11,7 @@ public class ArrayClass
 			int value = Convert.ToInt32(console.ReadLine());
 
 			array[i] = value;
-			array[ ] =(int)value
+			array[ ] =(int)value ;
 		}
 	}
 }
